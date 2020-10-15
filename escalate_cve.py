@@ -19,7 +19,7 @@ if cve_name != "":
     get_computer = host + "intrusionpreventionrules/search"
 
     header = {
-        "api-secret-key": "406BE245-CB19-0B3D-C5AA-05B1985D7D0B:C57B8819-8FA5-3138-2903-3FA576451B37:BfJCN7hiXfgxZzvvjQlxVkSCZRPTSFSPS6WWSLswegU=",
+        "api-secret-key": "【あなたの環境のAPIシークレットキー】",
         "api-version": "v1",
         "Content-Type": "application/json"
     }
